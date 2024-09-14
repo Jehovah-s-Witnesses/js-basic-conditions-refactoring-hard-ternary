@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-conditions-refactoring-hard-ternary
 
-## Text
+## Change hard ternary to if-else chains
 
 ## Criteria:
 
